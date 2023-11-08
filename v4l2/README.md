@@ -1,6 +1,6 @@
 # v4l2
 
-1.  [Introduction](introduciton.md)
+1.  [Introduction](introduction.md)
 1.  [v4l-utils](v4l-utils.md)
 1.  Examples
     1.  Official examples
